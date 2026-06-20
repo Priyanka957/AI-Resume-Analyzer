@@ -1,8 +1,6 @@
 streamlit
 pdfplumber
-python-docx
-matplotlib
-plotly
-fpdf2
 pandas
+numpy
 scikit-learn
+spacy
